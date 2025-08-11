@@ -227,7 +227,7 @@ const Hero = () => {
           <div className="relative rounded-xl p-6 bg-card border animate-scale-in">
             <div className="rounded-full p-[3px] bg-gradient-primary inline-block">
               <img
-                src="/images/sumaya-avatar.png.jpg"
+                src="/images/sumaya-avatar.jpg"
                 alt="Sumaya Hashim — AI/ML Engineer portrait"
                 loading="lazy"
                 decoding="async"
